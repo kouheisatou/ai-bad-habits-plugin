@@ -24,7 +24,7 @@ Claude が文章を直す
 プラグインを入れるだけでよい。トークンの発行も環境変数の設定も要らない。
 
 ```
-/plugin marketplace add kouheisatou/ai-bad-habits
+/plugin marketplace add kouheisatou/ai-bad-habits-plugin
 /plugin install ai-bad-habits@ai-bad-habits
 ```
 
