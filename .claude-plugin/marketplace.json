@@ -1,0 +1,18 @@
+{
+  "name": "ai-bad-habits",
+  "owner": {
+    "name": "AI悪癖図鑑"
+  },
+  "plugins": [
+    {
+      "name": "ai-bad-habits",
+      "source": "./",
+      "description": "AIが出したものへの不満を、指摘したその場で自分の図鑑へ非公開で記録する。公開はWebのマイページからのみ。",
+      "version": "0.1.0",
+      "homepage": "https://ai-bad-habit.com/guide/plugin",
+      "author": {
+        "name": "AI悪癖図鑑"
+      }
+    }
+  ]
+}

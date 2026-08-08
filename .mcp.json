@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ai-bad-habits": {
+      "type": "http",
+      "url": "https://ai-bad-habit.com/api/mcp"
+    }
+  }
+}

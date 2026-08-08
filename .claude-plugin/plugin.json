@@ -1,0 +1,7 @@
+{
+  "name": "ai-bad-habits",
+  "version": "0.1.0",
+  "description": "AIっぽい日本語の癖を、指摘したその場で自分の図鑑へ非公開で貯める。溜めた癖は次の執筆に反映される。",
+  "homepage": "https://ai-bad-habit.com",
+  "author": { "name": "AI悪癖図鑑" }
+}
